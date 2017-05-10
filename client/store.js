@@ -13,8 +13,8 @@ import posts from './data/posts.js';
 
 // create DefaultState
 const defaultState = {
-  comments,
-  posts
+  posts,
+  comments
 }
 
 // creating the redux store
